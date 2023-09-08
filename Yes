@@ -71,7 +71,7 @@ MAIN_TAB:AddToggle({
 })
 
 MAIN_TAB:AddSlider({
-	Name = "Punch-Aura Reach",
+	Name = "mama Punch-Aura Reach",
 	Min = 5,
 	Max = 20,
 	Default = 20,

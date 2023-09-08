@@ -1,6 +1,6 @@
 local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
 
-local Window = OrionLib:MakeWindow({Name = "something| Ability Wars", HidePremium = false, IntroEnable = false, IntroText = false, "ability wars", SaveConfig = false})
+local Window = OrionLib:MakeWindow({Name = "gaming something| Ability Wars", HidePremium = false, IntroEnable = false, IntroText = true, "ability wars", SaveConfig = false})
 
 -- TABS
 
